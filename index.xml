@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Berk İhsan Metin</title>
-    <link>https://berkihsanmetin.github.io/</link>
-      <atom:link href="https://berkihsanmetin.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://berkmetin.github.io/</link>
+      <atom:link href="https://berkmetin.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Berk İhsan Metin</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Berk İhsan Metin</copyright><lastBuildDate>Fri, 28 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://berkihsanmetin.github.io/media/icon_hufcc68d50ff5a36afc229751a35a13d57_16191_512x512_fill_lanczos_center_3.png</url>
+      <url>https://berkmetin.github.io/media/icon_hufcc68d50ff5a36afc229751a35a13d57_16191_512x512_fill_lanczos_center_3.png</url>
       <title>Berk İhsan Metin</title>
-      <link>https://berkihsanmetin.github.io/</link>
+      <link>https://berkmetin.github.io/</link>
     </image>
     
     <item>
       <title>Python basics</title>
-      <link>https://berkihsanmetin.github.io/courses/example/python/</link>
+      <link>https://berkmetin.github.io/courses/example/python/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://berkihsanmetin.github.io/courses/example/python/</guid>
+      <guid>https://berkmetin.github.io/courses/example/python/</guid>
       <description>&lt;p&gt;Build a foundation in Python.&lt;/p&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
@@ -51,9 +51,9 @@
     
     <item>
       <title>Visualization</title>
-      <link>https://berkihsanmetin.github.io/courses/example/visualization/</link>
+      <link>https://berkmetin.github.io/courses/example/visualization/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://berkihsanmetin.github.io/courses/example/visualization/</guid>
+      <guid>https://berkmetin.github.io/courses/example/visualization/</guid>
       <description>&lt;p&gt;Learn how to visualize data with Plotly.&lt;/p&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
@@ -81,9 +81,9 @@ fig.show()
     
     <item>
       <title>Statistics</title>
-      <link>https://berkihsanmetin.github.io/courses/example/stats/</link>
+      <link>https://berkmetin.github.io/courses/example/stats/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://berkihsanmetin.github.io/courses/example/stats/</guid>
+      <guid>https://berkmetin.github.io/courses/example/stats/</guid>
       <description>&lt;p&gt;Introduction to statistics for data science.&lt;/p&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
@@ -109,49 +109,49 @@ The variance of the distribution is $\sigma^{2}$.
     
     <item>
       <title>PetLand</title>
-      <link>https://berkihsanmetin.github.io/project/petland/</link>
+      <link>https://berkmetin.github.io/project/petland/</link>
       <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://berkihsanmetin.github.io/project/petland/</guid>
+      <guid>https://berkmetin.github.io/project/petland/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ASL Recognition</title>
-      <link>https://berkihsanmetin.github.io/project/asl-recognition/</link>
+      <link>https://berkmetin.github.io/project/asl-recognition/</link>
       <pubDate>Sat, 18 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://berkihsanmetin.github.io/project/asl-recognition/</guid>
+      <guid>https://berkmetin.github.io/project/asl-recognition/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spotify and ML</title>
-      <link>https://berkihsanmetin.github.io/project/spotify/</link>
+      <link>https://berkmetin.github.io/project/spotify/</link>
       <pubDate>Tue, 14 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://berkihsanmetin.github.io/project/spotify/</guid>
+      <guid>https://berkmetin.github.io/project/spotify/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Prisoner&#39;s Dilemma App</title>
-      <link>https://berkihsanmetin.github.io/project/prisoners-dilemma/</link>
+      <link>https://berkmetin.github.io/project/prisoners-dilemma/</link>
       <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://berkihsanmetin.github.io/project/prisoners-dilemma/</guid>
+      <guid>https://berkmetin.github.io/project/prisoners-dilemma/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Time-series Forecasting</title>
-      <link>https://berkihsanmetin.github.io/project/time-series-python/</link>
+      <link>https://berkmetin.github.io/project/time-series-python/</link>
       <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://berkihsanmetin.github.io/project/time-series-python/</guid>
+      <guid>https://berkmetin.github.io/project/time-series-python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>https://berkihsanmetin.github.io/post/getting-started/</link>
+      <link>https://berkmetin.github.io/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://berkihsanmetin.github.io/post/getting-started/</guid>
+      <guid>https://berkmetin.github.io/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
@@ -206,11 +206,11 @@ The variance of the distribution is $\sigma^{2}$.
     
     <item>
       <title>Hello R Markdown</title>
-      <link>https://berkihsanmetin.github.io/post/2020-12-01-r-rmarkdown/</link>
+      <link>https://berkmetin.github.io/post/2020-12-01-r-rmarkdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      <guid>https://berkihsanmetin.github.io/post/2020-12-01-r-rmarkdown/</guid>
+      <guid>https://berkmetin.github.io/post/2020-12-01-r-rmarkdown/</guid>
       <description>
-&lt;script src=&#34;https://berkihsanmetin.github.io/post/2020-12-01-r-rmarkdown/index.en_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://berkmetin.github.io/post/2020-12-01-r-rmarkdown/index.en_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
@@ -246,7 +246,7 @@ pie(
   init.angle = -50, border = NA
 )&lt;/code&gt;&lt;/pre&gt;
 &lt;div class=&#34;figure&#34;&gt;&lt;span style=&#34;display:block;&#34; id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;https://berkihsanmetin.github.io/post/2020-12-01-r-rmarkdown/index.en_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;https://berkmetin.github.io/post/2020-12-01-r-rmarkdown/index.en_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 Figure 1: A fancy pie chart.
 &lt;/p&gt;
@@ -257,18 +257,18 @@ Figure 1: A fancy pie chart.
     
     <item>
       <title>EDA with Python</title>
-      <link>https://berkihsanmetin.github.io/project/eda-google-play-store/</link>
+      <link>https://berkmetin.github.io/project/eda-google-play-store/</link>
       <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://berkihsanmetin.github.io/project/eda-google-play-store/</guid>
+      <guid>https://berkmetin.github.io/project/eda-google-play-store/</guid>
       <description>&lt;p&gt;The aim of this project is to understand and evaluate which factors are more likely to have an effect on the number of users who installed/downloaded an application on Google Play Store. In order to find out how to maximize download amount while developing an app, we have been analyzing the data with respect to the average rating of the app, effect of the genre, downloaders age groups, size of the app in megabytes, review amount of the app, the last date it has been updated and the impact of the pricing. After analyzing the results, it will become possible to predict which application ideas can get higher amount of installations, what should be the target age group for a specific category, which price and the app size is optimal to have maximum number of downloads, what are the effects of ratings or review numbers to downloads. With the correlation and optimization results, different combinations with mentioned factors will be generated and most efficient combination will maximize the installation amount of the app. A further use of these combinations can be foreseen as supporting app developers to reach their targeted group in a more efficient way in addition to create a better app experience for the Google Play Store users. This factor evaluating for maximizing the downloads will also help to create a better and more efficient Google Play Store environment with optimal and user-friendly apps. In that regard, some preprocessing data techniques such as data cleaning are used and also utilized from graphing techniques and machine learning methods to see each feature’s effect on download amounts. It is possible to claim that almost each 13 different variables listed as below have different levels of correlation with the amount of downloads for a given app.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Writing technical content in Academic</title>
-      <link>https://berkihsanmetin.github.io/post/writing-technical-content/</link>
+      <link>https://berkmetin.github.io/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://berkihsanmetin.github.io/post/writing-technical-content/</guid>
+      <guid>https://berkmetin.github.io/post/writing-technical-content/</guid>
       <description>&lt;p&gt;Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Academic.&lt;/p&gt;
@@ -292,7 +292,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-538124769&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-468173592&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -302,7 +302,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-538124769&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-468173592&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -530,9 +530,9 @@ You found me!
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>https://berkihsanmetin.github.io/post/jupyter/</link>
+      <link>https://berkmetin.github.io/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://berkihsanmetin.github.io/post/jupyter/</guid>
+      <guid>https://berkmetin.github.io/post/jupyter/</guid>
       <description>&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
 Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
 &lt;/code&gt;&lt;/pre&gt;
@@ -594,9 +594,9 @@ date: 2019-09-01
     
     <item>
       <title>Slides</title>
-      <link>https://berkihsanmetin.github.io/slides/example/</link>
+      <link>https://berkmetin.github.io/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://berkihsanmetin.github.io/slides/example/</guid>
+      <guid>https://berkmetin.github.io/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -723,9 +723,9 @@ $$&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>https://berkihsanmetin.github.io/admin/config.yml</link>
+      <link>https://berkmetin.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://berkihsanmetin.github.io/admin/config.yml</guid>
+      <guid>https://berkmetin.github.io/admin/config.yml</guid>
       <description></description>
     </item>
     

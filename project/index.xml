@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Berk İhsan Metin</title>
-    <link>https://berkihsanmetin.github.io/project/</link>
-      <atom:link href="https://berkihsanmetin.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://berkmetin.github.io/project/</link>
+      <atom:link href="https://berkmetin.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Berk İhsan Metin</copyright><lastBuildDate>Fri, 28 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://berkihsanmetin.github.io/media/icon_hufcc68d50ff5a36afc229751a35a13d57_16191_512x512_fill_lanczos_center_3.png</url>
+      <url>https://berkmetin.github.io/media/icon_hufcc68d50ff5a36afc229751a35a13d57_16191_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
-      <link>https://berkihsanmetin.github.io/project/</link>
+      <link>https://berkmetin.github.io/project/</link>
     </image>
     
     <item>
       <title>PetLand</title>
-      <link>https://berkihsanmetin.github.io/project/petland/</link>
+      <link>https://berkmetin.github.io/project/petland/</link>
       <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://berkihsanmetin.github.io/project/petland/</guid>
+      <guid>https://berkmetin.github.io/project/petland/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ASL Recognition</title>
-      <link>https://berkihsanmetin.github.io/project/asl-recognition/</link>
+      <link>https://berkmetin.github.io/project/asl-recognition/</link>
       <pubDate>Sat, 18 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://berkihsanmetin.github.io/project/asl-recognition/</guid>
+      <guid>https://berkmetin.github.io/project/asl-recognition/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spotify and ML</title>
-      <link>https://berkihsanmetin.github.io/project/spotify/</link>
+      <link>https://berkmetin.github.io/project/spotify/</link>
       <pubDate>Tue, 14 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://berkihsanmetin.github.io/project/spotify/</guid>
+      <guid>https://berkmetin.github.io/project/spotify/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Prisoner&#39;s Dilemma App</title>
-      <link>https://berkihsanmetin.github.io/project/prisoners-dilemma/</link>
+      <link>https://berkmetin.github.io/project/prisoners-dilemma/</link>
       <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://berkihsanmetin.github.io/project/prisoners-dilemma/</guid>
+      <guid>https://berkmetin.github.io/project/prisoners-dilemma/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Time-series Forecasting</title>
-      <link>https://berkihsanmetin.github.io/project/time-series-python/</link>
+      <link>https://berkmetin.github.io/project/time-series-python/</link>
       <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://berkihsanmetin.github.io/project/time-series-python/</guid>
+      <guid>https://berkmetin.github.io/project/time-series-python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>EDA with Python</title>
-      <link>https://berkihsanmetin.github.io/project/eda-google-play-store/</link>
+      <link>https://berkmetin.github.io/project/eda-google-play-store/</link>
       <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://berkihsanmetin.github.io/project/eda-google-play-store/</guid>
+      <guid>https://berkmetin.github.io/project/eda-google-play-store/</guid>
       <description>&lt;p&gt;The aim of this project is to understand and evaluate which factors are more likely to have an effect on the number of users who installed/downloaded an application on Google Play Store. In order to find out how to maximize download amount while developing an app, we have been analyzing the data with respect to the average rating of the app, effect of the genre, downloaders age groups, size of the app in megabytes, review amount of the app, the last date it has been updated and the impact of the pricing. After analyzing the results, it will become possible to predict which application ideas can get higher amount of installations, what should be the target age group for a specific category, which price and the app size is optimal to have maximum number of downloads, what are the effects of ratings or review numbers to downloads. With the correlation and optimization results, different combinations with mentioned factors will be generated and most efficient combination will maximize the installation amount of the app. A further use of these combinations can be foreseen as supporting app developers to reach their targeted group in a more efficient way in addition to create a better app experience for the Google Play Store users. This factor evaluating for maximizing the downloads will also help to create a better and more efficient Google Play Store environment with optimal and user-friendly apps. In that regard, some preprocessing data techniques such as data cleaning are used and also utilized from graphing techniques and machine learning methods to see each feature’s effect on download amounts. It is possible to claim that almost each 13 different variables listed as below have different levels of correlation with the amount of downloads for a given app.&lt;/p&gt;
 </description>
     </item>

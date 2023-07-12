@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Software Engineering | Berk İhsan Metin</title>
-    <link>https://berkihsanmetin.github.io/tag/software-engineering/</link>
-      <atom:link href="https://berkihsanmetin.github.io/tag/software-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://berkmetin.github.io/tag/software-engineering/</link>
+      <atom:link href="https://berkmetin.github.io/tag/software-engineering/index.xml" rel="self" type="application/rss+xml" />
     <description>Software Engineering</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Berk İhsan Metin</copyright><lastBuildDate>Fri, 28 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://berkihsanmetin.github.io/media/icon_hufcc68d50ff5a36afc229751a35a13d57_16191_512x512_fill_lanczos_center_3.png</url>
+      <url>https://berkmetin.github.io/media/icon_hufcc68d50ff5a36afc229751a35a13d57_16191_512x512_fill_lanczos_center_3.png</url>
       <title>Software Engineering</title>
-      <link>https://berkihsanmetin.github.io/tag/software-engineering/</link>
+      <link>https://berkmetin.github.io/tag/software-engineering/</link>
     </image>
     
     <item>
       <title>PetLand</title>
-      <link>https://berkihsanmetin.github.io/project/petland/</link>
+      <link>https://berkmetin.github.io/project/petland/</link>
       <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://berkihsanmetin.github.io/project/petland/</guid>
+      <guid>https://berkmetin.github.io/project/petland/</guid>
       <description></description>
     </item>
     

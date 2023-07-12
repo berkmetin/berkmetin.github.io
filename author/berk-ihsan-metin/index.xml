@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Berk İhsan Metin</title>
-    <link>https://berkihsanmetin.github.io/author/berk-ihsan-metin/</link>
-      <atom:link href="https://berkihsanmetin.github.io/author/berk-ihsan-metin/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://berkmetin.github.io/author/berk-ihsan-metin/</link>
+      <atom:link href="https://berkmetin.github.io/author/berk-ihsan-metin/index.xml" rel="self" type="application/rss+xml" />
     <description>Berk İhsan Metin</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Berk İhsan Metin</copyright><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://berkihsanmetin.github.io/author/berk-ihsan-metin/avatar_hu9d483c329489bbb314c8a1850ea327db_21207_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://berkmetin.github.io/author/berk-ihsan-metin/avatar_hu9d483c329489bbb314c8a1850ea327db_21207_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Berk İhsan Metin</title>
-      <link>https://berkihsanmetin.github.io/author/berk-ihsan-metin/</link>
+      <link>https://berkmetin.github.io/author/berk-ihsan-metin/</link>
     </image>
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>https://berkihsanmetin.github.io/post/getting-started/</link>
+      <link>https://berkmetin.github.io/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://berkihsanmetin.github.io/post/getting-started/</guid>
+      <guid>https://berkmetin.github.io/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
@@ -71,9 +71,9 @@
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>https://berkihsanmetin.github.io/post/jupyter/</link>
+      <link>https://berkmetin.github.io/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://berkihsanmetin.github.io/post/jupyter/</guid>
+      <guid>https://berkmetin.github.io/post/jupyter/</guid>
       <description>&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
 Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
 &lt;/code&gt;&lt;/pre&gt;

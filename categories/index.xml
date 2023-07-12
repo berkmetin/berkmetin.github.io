@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | Berk İhsan Metin</title>
-    <link>https://berkihsanmetin.github.io/categories/</link>
-      <atom:link href="https://berkihsanmetin.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://berkmetin.github.io/categories/</link>
+      <atom:link href="https://berkmetin.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Berk İhsan Metin</copyright><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://berkihsanmetin.github.io/media/icon_hufcc68d50ff5a36afc229751a35a13d57_16191_512x512_fill_lanczos_center_3.png</url>
+      <url>https://berkmetin.github.io/media/icon_hufcc68d50ff5a36afc229751a35a13d57_16191_512x512_fill_lanczos_center_3.png</url>
       <title>Categories</title>
-      <link>https://berkihsanmetin.github.io/categories/</link>
+      <link>https://berkmetin.github.io/categories/</link>
     </image>
     
   </channel>
