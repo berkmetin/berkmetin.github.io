@@ -1,0 +1,18 @@
+{
+  "name": "Berk İhsan Metin",
+  "short_name": "Berk İhsan Metin",
+  "lang": "en-us",
+  "theme_color": "#1565c0",
+  "background_color": "#1565c0",
+  "icons": [{
+    "src": "/media/icon_hufcc68d50ff5a36afc229751a35a13d57_16191_192x192_fill_lanczos_center_3.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/media/icon_hufcc68d50ff5a36afc229751a35a13d57_16191_512x512_fill_lanczos_center_3.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}

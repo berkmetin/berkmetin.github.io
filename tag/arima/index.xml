@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ARIMA | Berk İhsan Metin</title>
+    <link>https://berkihsanmetin.github.io/tag/arima/</link>
+      <atom:link href="https://berkihsanmetin.github.io/tag/arima/index.xml" rel="self" type="application/rss+xml" />
+    <description>ARIMA</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Berk İhsan Metin</copyright><lastBuildDate>Fri, 13 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://berkihsanmetin.github.io/media/icon_hufcc68d50ff5a36afc229751a35a13d57_16191_512x512_fill_lanczos_center_3.png</url>
+      <title>ARIMA</title>
+      <link>https://berkihsanmetin.github.io/tag/arima/</link>
+    </image>
+    
+    <item>
+      <title>Time-series Forecasting</title>
+      <link>https://berkihsanmetin.github.io/project/time-series-python/</link>
+      <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://berkihsanmetin.github.io/project/time-series-python/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
